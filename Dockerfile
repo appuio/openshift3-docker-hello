@@ -1,4 +1,4 @@
-FROM openshift/base-centos7
+FROM java
 MAINTAINER Daniel Tschan <tschan@puzzle.ch>
 
 ADD index.html /tmp/index.html
